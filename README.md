@@ -2,4 +2,4 @@
 - I'm interested it Software Engineering, Data Science, Cybersecurity, and Machine Learning
 - Languages I'm proficient in: Java, Python, C, Javascript, R
 - Areas of Focus: Computer Science, Data Science
-- How to reach me: ciaratrigg20@gmail.com
+- How to reach me: ciarartrigg@gmail.com
